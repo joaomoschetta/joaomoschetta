@@ -1,4 +1,4 @@
-<h1>Ola, eu sou João Moschetta</h1>
+# Olá, eu sou João Moschetta
 
 - ✌ **Quem?** Desenvolvedor autodidata apaixonado por front-end
 - 💻 **Principais skills?** Typescript, React, CSS, Git
