@@ -7,5 +7,5 @@
 <!-- - 💬 **Aberto a proposta de emprego?** Sim, me contate via [email](mailto:joamoschetta@gmail.com) -->
 
 [![See my LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://linekin.com/in/joaomoschetta)
+)](https://linkedin.com/in/joaomoschetta)
 [![Contact my email](https://img.shields.io/badge/joaomoschetta@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joamoschetta@gmail.com)
