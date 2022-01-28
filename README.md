@@ -1,9 +1,9 @@
 # Olá, eu sou João Moschetta
 
-- ✌ **Quem?** Desenvolvedor autodidata apaixonado por front-end
-- 💻 **Principais skills?** Typescript, React, CSS, Git
-- 🌱 **Aprendendo atualmente?** Angular
-- 🔮 **Futuros interesses?** Styled Components, Next.js, GraphQL, React Native, e MUITO mais
+- ✌ **Quem?** Desenvolvedor autodidata apaixonado por front-end, trabalhando com Angular, PHP e SQL na empresa [Geinfo](https://www.geinfo.com.br/)
+- 💻 **Principais skills?** Typescript, Angular e React.js
+- 🌱 **Aprendendo atualmente?** Angular, PHP e SQL
+- 🔮 **Futuros interesses?** Next.js, GraphQL, React Native, ...
 <!-- - 💬 **Aberto a proposta de emprego?** Sim, me contate via [email](mailto:joamoschetta@gmail.com) -->
 
 [![See my LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
